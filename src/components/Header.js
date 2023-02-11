@@ -1,7 +1,7 @@
 import { setSeeSection } from "../store/slices/seeSection.slice";
 import { setMessage } from "../store/slices/message.slice";
 import { useDispatch } from "react-redux";
-import foto from "../assets/DIEGO.png";
+import foto from "../assets/brianmacia.png";
 import { Link } from "react-scroll";
 import CV from "../assets/CV.pdf";
 import "../styles/Header.css";
