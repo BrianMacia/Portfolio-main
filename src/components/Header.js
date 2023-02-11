@@ -3,7 +3,7 @@ import { setMessage } from "../store/slices/message.slice";
 import { useDispatch } from "react-redux";
 import foto from "../assets/macia.png";
 import { Link } from "react-scroll";
-import CV from "../assets/CV.pdf";
+import CV from "../assets/CV BRIAN MACIA.pdf";
 import "../styles/Header.css";
 import React from "react";
 import Nav from "./Nav";
