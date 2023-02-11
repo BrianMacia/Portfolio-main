@@ -21,17 +21,12 @@ const Information = () => {
           Educación
         </h2>
         <ul>
+          
           <li className="card-education">
-            <span>NOV_2022 - ENE_2023</span>
-            <h4>Certus</h4>
-            <h6>Instituto-Perú</h6>
-            <p>Desarrollo de aplicaciones móviles con Flutter</p>
-          </li>
-          <li className="card-education">
-            <span>FEB_2022 - NOV_2022</span>
-            <h4>Academlo</h4>
+            <span>JUNIO_2022 - FEBRERO_2023</span>
+            <h4>Academblo</h4>
             <h6>Bootcamp-Mexico</h6>
-            <p>Programación Web Full-Stack y Ciencias de Computación.</p>
+            <p>Programación Web Full-Stack</p>
           </li>
           <li className="card-education">
             <span>AGO_2021 - ...</span>

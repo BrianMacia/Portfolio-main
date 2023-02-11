@@ -53,7 +53,7 @@ const Header = () => {
             <li>
               <a
                 className="btn-cursor-hover"
-                href="https://github.com/Diego-Nieves26"
+                href="https://github.com/BrianMacia"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -63,7 +63,7 @@ const Header = () => {
             <li>
               <a
                 className="btn-cursor-hover"
-                href="https://www.linkedin.com/in/diego-nieves-04b409242/"
+                href="https://www.linkedin.com/in/brian-macia/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -73,7 +73,7 @@ const Header = () => {
             <li>
               <a
                 className="btn-cursor-hover"
-                href="https://es.stackoverflow.com/users/295820/diego-nieves"
+                href="https://es.stackoverflow.com/users/320282/brian-macia"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -86,7 +86,7 @@ const Header = () => {
           <a
             href={CV}
             className="download-button btn-header btn-cursor-hover "
-            download="Diego_Nieves_CV"
+            download="Brian_Macia_CV"
             onClick={() =>
               dispatch(
                 setMessage(

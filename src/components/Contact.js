@@ -23,7 +23,7 @@ const Contact = () => {
         (result) => {
           dispatch(
             setMessage(
-              "Mensaje enviado con éxito, te responderé lo más pronto posible, DEBERÁS 👍"
+              "Mensaje enviado con éxito, te responderé lo más pronto posible, muchas gracias. 👍"
             )
           );
         },
