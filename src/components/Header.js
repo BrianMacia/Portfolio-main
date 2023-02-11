@@ -90,7 +90,7 @@ const Header = () => {
             onClick={() =>
               dispatch(
                 setMessage(
-                  "😉😉😉😉😉"
+                  "Gracias por descargar mi CV 😊👌"
                 )
               )
             }
