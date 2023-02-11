@@ -1,7 +1,7 @@
 import { setSeeSection } from "../store/slices/seeSection.slice";
 import { setMessage } from "../store/slices/message.slice";
 import { useDispatch } from "react-redux";
-import foto from "../assets/brianmacia.png";
+import foto from "../assets/macia.png";
 import { Link } from "react-scroll";
 import CV from "../assets/CV.pdf";
 import "../styles/Header.css";
@@ -47,8 +47,8 @@ const Header = () => {
           <div>
             <img src={foto} alt="Yo" />
           </div>
-          <h1>Diego Nieves</h1>
-          <h2>Desarrollador Front-end</h2>
+          <h1>Brian Macia</h1>
+          <h2>Desarrollador Full Stack</h2>
           <ul>
             <li>
               <a
