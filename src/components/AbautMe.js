@@ -8,7 +8,7 @@ const AbautMe = () => {
     <section id="AbautMe" className={`${active === "AbautMe" && "active"}`}>
       <h3 className="caption">Sobre mi</h3>
       <p className="paragraph">
-        Hola, soy desarrollador Full Stack, amante de los
+        Hola, soy desarrollador Web Full Stack, amante de los
         videojuegos. Siempre dispuesto a aprender
         nuevas tecnologías. Soy una persona autodidacta, proactiva, eficaz, que
         ama la tecnología. Actualmente, dedico mi tiempo a estudiar y
@@ -25,7 +25,7 @@ const AbautMe = () => {
         </div>
         <div>
           <span>De pequeño jugaba con</span>
-          <p className="myInfoCardText">Rastrillos</p>
+          <p className="myInfoCardText">Rastrillos (LEGOS)</p>
         </div>
         <div>
           <span>Me gustaría</span>

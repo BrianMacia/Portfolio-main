@@ -4,6 +4,27 @@ import "../styles/Information.css";
 import iSequelize from "../assets/icon-Sequelize.svg";
 import iExpress from "../assets/icon-express.svg";
 
+
+/*
+                  <li>
+                    <i class="bx bxl-tailwind-css"></i>
+                    <span>Intermedio</span>
+                  </li>
+                  <li>
+                    <i className="bx bxl-vuejs"></i>
+                    <span>Aprendiendo</span>
+                  </li>
+                  <li>
+                    <i class="bx bxl-flutter"></i>
+                    <span>Novato</span>
+                  </li>
+                  <li>
+                    <i className="bx bxl-sass"></i>
+                    <span>Aprendiendo</span>
+                  </li>
+*/
+
+
 const Information = () => {
   const active = useSelector((state) => state.seeSection);
   return (
@@ -77,22 +98,7 @@ const Information = () => {
                     <i className="bx bxl-bootstrap"></i>
                     <span>Novato</span>
                   </li>
-                  <li>
-                    <i class="bx bxl-tailwind-css"></i>
-                    <span>Intermedio</span>
-                  </li>
-                  <li>
-                    <i className="bx bxl-vuejs"></i>
-                    <span>Aprendiendo</span>
-                  </li>
-                  <li>
-                    <i class="bx bxl-flutter"></i>
-                    <span>Novato</span>
-                  </li>
-                  <li>
-                    <i className="bx bxl-sass"></i>
-                    <span>Aprendiendo</span>
-                  </li>
+
                 </ul>
               </div>
             </div>

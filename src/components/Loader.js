@@ -9,7 +9,7 @@ const Loader = () => {
         initial={{ scale: 1 }}
         animate={{ scale: 0, opacity: 0 }}
         transition={{
-          duration: 0.7,
+          duration: 0.9,
         }}
       ></motion.div>
     </div>

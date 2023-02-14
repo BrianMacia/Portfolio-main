@@ -70,11 +70,11 @@
 }
 
 .myInfoCard div:nth-child(2):hover {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/1200px-Machu_Picchu%2C_Peru.jpg");
+  background-image: url("https://el-pais.brightspotcdn.com/dims4/default/b1679fe/2147483647/strip/false/crop/930x684+0+0/resize/1200x882!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.amazonaws.com%2Fbrightspot%2Fuploads%2F2022%2F08%2F12%2F62f6ac43c99e6.jpeg");
 }
 
 .myInfoCard div:nth-child(3):hover {
-  background-image: url("https://www.ikea.com/mx/en/images/products/bygglek-201-piece-lego-r-brick-set-mixed-colours__0915518_pe784785_s5.jpg");
+  background-image: url("https://los40es00.epimg.net/los40/imagenes/2020/01/28/album/1580198583_431629_1580203483_portada_normal.jpg");
 }
 
 .myInfoCard div:nth-child(4):hover {

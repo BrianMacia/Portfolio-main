@@ -48,7 +48,7 @@ const Header = () => {
             <img src={foto} alt="Yo" />
           </div>
           <h1>Brian Macia</h1>
-          <h2>Desarrollador Full Stack</h2>
+          <h2>Desarrollador Web Full-Stack</h2>
           <ul>
             <li>
               <a
