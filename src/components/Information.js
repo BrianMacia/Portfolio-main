@@ -80,6 +80,7 @@ const Information = () => {
                 <ul>
                   <li>
                     <i className="bx bxl-html5"></i>
+                    <span>HTML5</span>
                     <span>Intermedio</span>
                   </li>
                   <li>
