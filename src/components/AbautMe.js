@@ -21,7 +21,7 @@ const AbautMe = () => {
         </div>
         <div>
           <span>País</span>
-          <p className="myInfoCardText">Argentina</p>
+          <p className="myInfoCardText">Argentina, Buenos Aires</p>
         </div>
         <div>
           <span>De pequeño jugaba con</span>
