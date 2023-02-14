@@ -33,60 +33,53 @@
     "id": 5,
     "category": "full",
     "name": "CRUD",
-    "img": "https://raw.githubusercontent.com/Diego-Nieves26/React-Crud--/main/src/assets/img.png",
-    "gitHub": "https://github.com/Diego-Nieves26/React-Crud--.git",
-    "web": "https://papaya-malasada-686ac1.netlify.app/",
+    "img": "https://user-images.githubusercontent.com/43327840/218867733-74d72cbd-f050-485a-b241-6f9449218a68.png",
+    "gitHub": "https://github.com/BrianMacia/entregable-4",
+    "web": "https://entregable4-brianmacia.netlify.app//",
     "description": "Crea, lee, actualiza y elimina datos"
   },
   {
     "id": 4,
     "category": "front",
     "name": "Rick-and-Morty",
-    "img": "https://raw.githubusercontent.com/Diego-Nieves26/React-Rick-and-Morty--/main/src/assets/img.png",
-    "gitHub": "https://github.com/Diego-Nieves26/React-Rick-and-Morty--.git",
-    "web": "https://subtle-banoffee-4014e9.netlify.app/",
+    "img": "https://user-images.githubusercontent.com/43327840/218868219-2ba5128e-9047-42ad-9447-9804719788a5.png",
+    "gitHub": "https://github.com/BrianMacia/ENTREGABLE-3-REACT",
+    "web": "https://entregable-3-react-brianmacia.netlify.app/",
     "description": "Lista personajes de la serie Rick And Morty"
   },
-  {
-    "id": 6,
-    "category": "front",
-    "name": "Crypto-Wall",
-    "img": "https://raw.githubusercontent.com/Diego-Nieves26/Vue-Crypto-Wall/main/src/assets/img.png",
-    "gitHub": "https://github.com/Diego-Nieves26/Vue-Crypto-Wall.git",
-    "web": "https://startling-dragon-f6444e.netlify.app/",
-    "description": "Muestra datos del mundo crypto"
-  },
+  
   {
     "id": 9,
-    "category": "back",
-    "name": "Games Store",
-    "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
-    "gitHub": "https://github.com/Diego-Nieves26/API-Games-Store--.git",
-    "description": "..."
+    "category": "front",
+    "name": "Frases",
+    "img": "https://user-images.githubusercontent.com/43327840/218869030-6c884612-1214-4085-aff2-1190edaad5d0.png",
+    "gitHub": "https://github.com/BrianMacia/Entregable-1-REACT",
+    "web": "https://entregable-1-react-brian-macia.netlify.app/",
+    "description": "Frases aleatorias"
   },
 
   {
     "id": 12,
     "category": "back",
-    "name": "Music Player",
+    "name": "crear una API para una web de cursos",
     "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
-    "gitHub": "https://github.com/Diego-Nieves26/Music-player--.git"
+    "gitHub": "https://github.com/BrianMacia/entregable-3-NJ"
   },
   {
     "id": 10,
     "category": "back",
-    "name": "Academlo Meals",
+    "name": "Todo App",
     "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
-    "gitHub": "https://github.com/Diego-Nieves26/API-Academlo-Meals--.git",
-    "description": "..."
+    "gitHub": "https://github.com/BrianMacia/entregable-2-nodejs",
+    "description": "creado los endpoints para responder las consultas a usuarios"
   },
   {
     "id": 7,
     "category": "back",
-    "name": "Check In Check Out",
+    "name": "Json API",
     "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
-    "gitHub": "https://github.com/Diego-Nieves26/Api-Check-in_Check-out--.git",
-    "description": "..."
+    "gitHub": "https://github.com/BrianMacia/ENTREGA-1",
+    "description": "Realizar una json api usando Express."
   },
   {
     "id": 8,
@@ -99,17 +92,10 @@
   {
     "id": 11,
     "category": "back",
-    "name": "Academlo Store",
+    "name": "Academlo Ecommers",
     "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
-    "gitHub": "https://github.com/Diego-Nieves26/Academlo-store--.git",
-    "description": "..."
+    "gitHub": "https://github.com/BrianMacia/NodeJS-PROYECTO-FINAL-ECOMMERS",
+    "description": "API desde 0, mas consideraciones de seguridad y para lanzar a producción en Railway / render"
   },
-  {
-    "id": 13,
-    "category": "back",
-    "name": "CRUD",
-    "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
-    "gitHub": "https://github.com/Diego-Nieves26/API-Crud--.git",
-    "description": "..."
-  }
+  
 ]
