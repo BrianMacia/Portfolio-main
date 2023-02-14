@@ -13,19 +13,19 @@
     "id": 2,
     "category": "front",
     "name": "PokeApi",
-    "img": "https://raw.githubusercontent.com/Diego-Nieves26/React-Pokedex/main/src/assets/img.png",
-    "gitHub": "https://github.com/Diego-Nieves26/React-Pokedex.git",
-    "web": "https://lustrous-marigold-b9f6ee.netlify.app/",
-    "description": "Lsta todos los pokemones, a la vez muestra sus detalles"
+    "img": "https://user-images.githubusercontent.com/43327840/218760647-f5c50073-f2c8-46c4-aad1-17d3a3c48be1.png",
+    "gitHub": "https://github.com/BrianMacia/pokedex-e5-brianmacia",
+    "web": "https://pokedex-e5-brianmacia.netlify.app/",
+    "description": "Lista todos los pokemones, a la vez muestra sus detalles"
   },
 
   {
     "id": 3,
     "category": "front",
     "name": "Ecommerce",
-    "img": "https://raw.githubusercontent.com/Diego-Nieves26/React-Ecommerce/main/src/assets/img.png",
-    "gitHub": "https://github.com/Diego-Nieves26/React-Ecommerce.git",
-    "web": "https://joyful-melomakarona-6f3db3.netlify.app",
+    "img": "https://user-images.githubusercontent.com/43327840/218765571-53b3b86e-85b8-470d-9e7b-efbade12d846.png",
+    "gitHub": "https://github.com/BrianMacia/ecommerce",
+    "web": "https://ecomers-practica.netlify.app/",
     "description": "Simulacion de una tienda virtual"
   },
 
