@@ -48,15 +48,6 @@
     "description": "Lista personajes de la serie Rick And Morty"
   },
   {
-    "id": 6,
-    "category": "front",
-    "name": "Crypto-Wall",
-    "img": "https://raw.githubusercontent.com/Diego-Nieves26/Vue-Crypto-Wall/main/src/assets/img.png",
-    "gitHub": "https://github.com/Diego-Nieves26/Vue-Crypto-Wall.git",
-    "web": "https://startling-dragon-f6444e.netlify.app/",
-    "description": "Muestra datos del mundo crypto"
-  },
-  {
     "id": 9,
     "category": "front",
     "name": "Frases",
@@ -90,28 +81,12 @@
     "description": "Realizar una json api usando Express."
   },
   {
-    "id": 8,
-    "category": "back",
-    "name": "Tasks",
-    "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
-    "gitHub": "https://github.com/Diego-Nieves26/API-Tasks--.git",
-    "description": "..."
-  },
-  {
     "id": 11,
     "category": "back",
     "name": "Academlo Ecommers",
     "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
     "gitHub": "https://github.com/BrianMacia/NodeJS-PROYECTO-FINAL-ECOMMERS",
     "description": "API desde 0, mas consideraciones de seguridad y para lanzar a producción en Railway / render"
-  },
-  {
-    "id": 13,
-    "category": "back",
-    "name": "CRUD",
-    "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
-    "gitHub": "https://github.com/Diego-Nieves26/API-Crud--.git",
-    "description": "..."
   }
 ]
 
