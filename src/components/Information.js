@@ -85,18 +85,22 @@ const Information = () => {
                   </li>
                   <li>
                     <i className="bx bxl-css3"></i>
+                    <span>CSS3</span>
                     <span>Intermedio</span>
                   </li>
                   <li>
                     <i className="bx bxl-react"></i>
+                    <span>REACT</span>
                     <span>Intermedio</span>
                   </li>
                   <li>
                     <i className="bx bxl-redux"></i>
+                    <span>REDUX</span>
                     <span>Principiante</span>
                   </li>
                   <li>
                     <i className="bx bxl-bootstrap"></i>
+                    <span>BOOTSTRAP</span>
                     <span>Novato</span>
                   </li>
 
@@ -115,26 +119,32 @@ const Information = () => {
                 <ul>
                   <li>
                     <i className="bx bxl-nodejs"></i>
-                    <span>Intermedio</span>
+                    <span>NODEJS</span>
+                    <span>Principiante</span>
                   </li>
                   <li>
                     <i className="bx bxl-postgresql"></i>
+                    <span>POSTGRESQL</span>
                     <span>Intermedio</span>
                   </li>
                   <li>
                     <i className="bx bxl-mongodb"></i>
+                    <span>MONGODB</span>
                     <span>Principiante</span>
                   </li>
                   <li>
                     <i class="bx bxl-python"></i>
+                    <span>PYTHON</span>
                     <span>Principiante</span>
                   </li>
                   <li>
                     <img src={iSequelize} alt="icon sequelize" />
+                    <span>ISEQUELIZE</span>
                     <span>Intermedio</span>
                   </li>
                   <li>
                     <img src={iExpress} alt="icon sequelize" />
+                    <span>IEXPRESS</span>
                     <span>Intermedio</span>
                   </li>
                 </ul>
@@ -152,22 +162,27 @@ const Information = () => {
                 <ul>
                   <li>
                     <i className="bx bxl-git"></i>
+                    <span>GIT</span>
                     <span>Intermedio</span>
                   </li>
                   <li>
                     <i class="bx bxl-heroku"></i>
+                    <span>HEROKU</span>
                     <span>Novato</span>
                   </li>
                   <li>
                     <i className="bx bxl-firebase"></i>
+                    <span>FIROBASE</span>
                     <span>Novato</span>
                   </li>
                   <li>
                     <i className="bx bxl-visual-studio"></i>
+                    <span>VISUAL-STUDIO</span>
                     <span>Intermedio</span>
                   </li>
                   <li>
                     <i className="bx bxl-github"></i>
+                    <span>GITHUB</span>
                     <span>Intermedio</span>
                   </li>
                 </ul>
