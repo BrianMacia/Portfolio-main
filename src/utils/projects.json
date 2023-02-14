@@ -86,7 +86,7 @@
     "name": "Academlo Ecommers",
     "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
     "gitHub": "https://github.com/BrianMacia/NodeJS-PROYECTO-FINAL-ECOMMERS",
-    "description": "API desde 0, mas consideraciones de seguridad y para lanzar a producción en Railway / render"
+    "description": "API desde 0, mas seguridad y para lanzar a producción en Railway / render"
   }
 ]
 
