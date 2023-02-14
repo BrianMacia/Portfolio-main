@@ -3,9 +3,9 @@
     "id": 1,
     "category": "front",
     "name": "Weather-App",
-    "img": "https://raw.githubusercontent.com/Diego-Nieves26/React-Weather-App--/main/src/assets/img.png",
-    "gitHub": "https://github.com/Diego-Nieves26/React-Weather-App--.git",
-    "web": "https://incandescent-cannoli-66ab91.netlify.app/",
+    "img": "https://user-images.githubusercontent.com/43327840/218757429-c47ed059-7cdc-4ed3-b82e-d3d6cd78338a.png",
+    "gitHub": "https://github.com/BrianMacia/Wheather-App-e2-REACT",
+    "web": "https://wheather-app-e2-react-brian-macia.netlify.app/",
     "description": "App que muestra datos del clima segun tu ubicacion"
   },
 
