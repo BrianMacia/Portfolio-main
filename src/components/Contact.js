@@ -5,6 +5,7 @@ import emailjs from "@emailjs/browser";
 import "../styles/Contact.css";
 import { setMessage } from "../store/slices/message.slice";
 
+
 const Contact = () => {
   const active = useSelector((state) => state.seeSection);
   const dispatch = useDispatch();
@@ -12,10 +13,17 @@ const Contact = () => {
 
   const submit = (e) => {
     e.preventDefault();
+   
+
+    
+
+
     emailjs
       .sendForm(
         "service_012xb7j",
         "template_q1455ib",
+      form.current,
+        "ITZjn5ovutNFUDHV2"
       )
       .then(
         (result) => {
